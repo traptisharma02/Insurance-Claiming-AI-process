@@ -1,0 +1,6 @@
+Flask==3.0.3
+pdfplumber==0.11.4
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+numpy==1.26.4
+torch==2.3.1
